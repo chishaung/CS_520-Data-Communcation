@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1428685219 "DataCommunications.tex" "DataCommunications.pdf" "DataCommunications" 1428685220
+["pdflatex"] 1428685219 "DataCommunications.tex" "DataCommunications.pdf" "DataCommunications" 1428690818
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -35,12 +35,12 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/tools/multicol.sty" 1399675188 29193 08a2f6b9e76c544040f9143397c0d6dc ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "DataCommunications.aux" 1428685220 2037 f9abe14aaa13ba6eda589e8c70bc3b2e ""
-  "DataCommunications.tex" 1428685218 13621 aab080da775e358aa8ba63bdeb78c152 ""
+  "DataCommunications.tex" 1428690816 13621 aab080da775e358aa8ba63bdeb78c152 ""
   "Fig-Channel-power.png" 0 -1 0 ""
   "V and DS.png" 1428684739 220027 4ff7e52dbfadda6714dbbbe929d788f1 ""
   "llncs.cls" 1396296046 42896 f6a4d06405fdcfda24598954aa02c31a ""
   "pdr-3-vs-6-Mbps.png" 0 -1 0 ""
   (generated)
-  "DataCommunications.aux"
-  "DataCommunications.pdf"
   "DataCommunications.log"
+  "DataCommunications.pdf"
+  "DataCommunications.aux"
